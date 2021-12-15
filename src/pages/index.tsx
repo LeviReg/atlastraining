@@ -33,40 +33,21 @@ export default function Page() {
       <main className="content">
         <Hero
           title="I have no idea what I am doing"
-          buttonText="Tasty Tunes"
+          buttonText="Bitta Synthwave"
           buttonURL="https://www.youtube.com/watch?v=EKsBso8OR0Y"
-          button2Text="More Tasty Tunes"
+          button2Text="Bitta something else"
           button2URL="https://www.youtube.com/watch?v=nIso825-Ko4"
           bgImage="/images/triangles.png"
           id={styles.home_hero}>
           <p>
-            WP&nbsp;Engine’s Headless WordPress Framework includes this example
-            project, the{' '}
-            <a href="https://github.com/wpengine/faustjs#wordpress-plugin">
-              headless WordPress plugin
-            </a>
-            ,{' '}
-            <a href="https://github.com/wpengine/faustjs">headless packages</a>,
-            and{' '}
-            <a href="https://faustjs.org/docs/tutorial/dev-env-setup">
-              tutorials
-            </a>{' '}
-            to make building headless WordPress sites fast and fun.
+          If We Hit That Bullseye, The Rest Of The Dominos Will Fall Like A House Of Cards. Checkmate.
           </p>
         </Hero>
         <section className={styles.explore}>
           <div className="wrap">
             <h2>Explore this Example Project</h2>
             <p>
-              This headless example project uses{' '}
-              <a href="https://nextjs.org/">Next.js</a>,{' '}
-              <a href="https://graphql.org/">GraphQL</a>,{' '}
-              <a href="https://gqty.dev">GQty</a> and the{' '}
-              <a href="https://github.com/wpengine/faustjs">
-                WP&nbsp;Engine headless packages
-              </a>{' '}
-              for WordPress integration. Dive in and edit this template at{' '}
-              <code>src/pages/index.tsx</code> or discover more below.
+            Anyone Without A Ship Should Secure A Weapon & Fire Wildly Into The Air.
             </p>
             <div className={styles.features}>
               <div className={styles.feature}>
