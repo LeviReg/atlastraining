@@ -46,7 +46,7 @@ export default function Page() {
         <section className={styles.explore}>
           <div className="wrap">
             <h2>Explore this Example Project</h2>
-            <img src='/images/city.jpg'></img>
+            <img src='/images/city.jpg' width={500} height={500}> </img>
             <img src='/images/egypt.jpg'></img>
             <p>
             Anyone Without A Ship Should Secure A Weapon & Fire Wildly Into The Air.
